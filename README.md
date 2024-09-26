@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @RichHaug
+- 👀 I’m interested in video games
+- 🌱 I’m currently learning developpement
+- 💞️ I’m looking to collaborate on dev project
+- 📫 How to reach me by mail "r.hauglustaine@student.helmo.be"
+- 😄 Pronouns: he/him
